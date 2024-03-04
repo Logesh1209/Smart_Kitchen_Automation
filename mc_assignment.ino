@@ -17,11 +17,11 @@
 
 
 // Blynk
-#define BLYNK_AUTH_TOKEN "p3Fr3mOaKXGoozm_eaKgujPN4uFyAgq4"
+#define BLYNK_AUTH_TOKEN ""
 
 // WIFI
-#define SSID "Logesh S"
-#define PW "87654321"
+#define SSID ""
+#define PW ""
 
 // Blynk Virtual Pins
 // V0 Temperature, V1 Humidity, V2 AQ, V3 Fan, V4 Light
